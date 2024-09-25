@@ -6,3 +6,6 @@
 
 ## Dokumentasi Web Drum Kit 
 <img src="images/Drum-Kit.png">
+
+## Flowchart
+<img src="images/Flowchart.png">
