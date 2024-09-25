@@ -8,4 +8,4 @@
 <img src="images/Drum-Kit.png">
 
 ## Flowchart
-<img src="images/Flowchart.png"width="50%>
+<img src="images/Flowchart.png" width="50%">
